@@ -1,9 +1,9 @@
-site_name: CosìMiPiace
-site_url: https://readthedocs.org/projects/readthedocscomepiaceame/
-site_description: Un altro bel tool per scrivere documentazione in Markdown
+site_name: ProvaRTDciro
+site_url: https://readthedocs.org/projects/rtd-comemipiace/
+site_description: Un altro bel tool per scrivere documentazione in Markdown da visualizzare su RTD
 
-repo_url: https://github.com/aborruso/readthedocscomepiaceame
-repo_name: readthedocscomepiaceame
+repo_url:https://github.com/cirospat/rtd-comemipiace
+repo_name: rtd-comemipiace
 edit_uri: edit/master/docs/
 
 theme:
@@ -15,11 +15,11 @@ theme:
 
 nav:
   - Home: README.md
-  - twarc2: twarc2.md
-  - Plugins: plugins.md
-  - Twitter Developer Access: twitter-developer-access.md
-  - Windows 10: windows10.md
-  - Library API:
+  - Prova pagina: provapagina.md
+  - Altra pagina: plugins.md
+  - Un altra pagina ancora: twitter-developer-access.md
+  - Più pagine ancora: windows10.md
+  - Directory:
     - api/client.md
     - api/client2.md
     - api/expansions.md
