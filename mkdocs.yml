@@ -16,9 +16,9 @@ theme:
 nav:
   - Home: README.md
   - Prova pagina: provapagina.md
-  - Altra pagina: plugins.md
-  - Un altra pagina ancora: twitter-developer-access.md
-  - Più pagine ancora: windows10.md
+  - Altra pagina: pippo.md
+  - Un altra pagina ancora: pippo2.md
+  - Più pagine ancora: pippo3.md
   - Directory:
     - api/client.md
     - api/client2.md
