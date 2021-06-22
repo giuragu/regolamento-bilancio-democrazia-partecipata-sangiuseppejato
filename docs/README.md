@@ -9,13 +9,10 @@ Benvenuti in questa pagina di visualizzazione di testo
 
 ## Sottotitolo  
 <code>technology names</code>
-
-.....
------
+un sottotitolo con ##
 
 ### sotto sottotitolo
-.....
-.....
+un sottotitolo con ###
 
 
 #### sotto sotto sotto titolo
