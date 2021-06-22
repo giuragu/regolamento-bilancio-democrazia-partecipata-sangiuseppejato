@@ -2,7 +2,7 @@ site_name: ProvaRTDciro
 site_url: https://readthedocs.org/projects/rtd-comemipiace/
 site_description: Un altro bel tool per scrivere documentazione in Markdown da visualizzare su RTD
 
-repo_url:https://github.com/cirospat/rtd-comemipiace
+repo_url: https://github.com/cirospat/rtd-comemipiace
 repo_name: rtd-comemipiace
 edit_uri: edit/master/docs/
 
