@@ -8,7 +8,7 @@ edit_uri: edit/master/docs/
 
 theme:
   name: "material"
-  logo: images/document.png
+  logo: images/logo2.png
   palette:
     scheme: preference
   language: it
