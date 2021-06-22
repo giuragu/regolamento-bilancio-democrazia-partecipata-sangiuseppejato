@@ -32,3 +32,12 @@ markdown_extensions:
 - mkdocs-click
 - pymdownx.highlight
 - pymdownx.superfences
+- pymdownx.critic:
+      mode: view
+- pymdownx.betterem:
+      smart_enable: all
+- pymdownx.caret
+- pymdownx.mark
+- pymdownx.tilde
+- pymdownx.smartsymbols
+
