@@ -19,6 +19,14 @@ Benvenuti in questa pagina di visualizzazione di testo
 
 
 #### sotto sotto sotto titolo
+linee di codice
+
+```
+line of code
+line of code
+line of code
+```
+
 
 Write a short description of the technologies that this workshop focuses on. Include a snazzy image, too.
 
