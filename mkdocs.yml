@@ -8,7 +8,7 @@ edit_uri: edit/master/docs/
 
 theme:
   name: "material"
-  logo: images/logo1.png
+  logo: images/cirospat.jpg
   palette:
     scheme: preference
   language: it
