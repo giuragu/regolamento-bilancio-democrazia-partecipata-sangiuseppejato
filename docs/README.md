@@ -1,4 +1,4 @@
-# Workshop Title 2.0
+# Titolo
 
 Welcome to our workshop! In this workshop we'll be using foo to accomplish bar. The goals of this workshop are:
 
@@ -7,6 +7,6 @@ Welcome to our workshop! In this workshop we'll be using foo to accomplish bar. 
 * Goal of the lab 3
 * Have fun!
 
-## About <technology names>
+## Sottotitolo <technology names>
 
 Write a short description of the technologies that this workshop focuses on. Include a snazzy image, too.
