@@ -55,6 +55,7 @@ extra:
       link: mailto:cirospat@gmail.com
     - icon: fontawesome/solid/book
       link: https://readthedocs.org/projects/rtd-comemipiace/
+  
   include_newlines: |
               Ciro Spataro
 
