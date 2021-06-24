@@ -16,4 +16,4 @@ paragrafo
 
 ## images
 
-![Tux, the Linux mascot](/img/logo.png)
+![immagine](/docs/img/logo.png)
