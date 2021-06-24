@@ -6,7 +6,7 @@
 
 per vedere come viene>
 
-??? quote "prova"
+??? quote "`prova`"
 
     ``` diff
     
