@@ -53,8 +53,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.tabbed
-  - pymdownx.tasklist:
-      custom_checkbox: true
+  
 
 ## Social Media
 extra:
