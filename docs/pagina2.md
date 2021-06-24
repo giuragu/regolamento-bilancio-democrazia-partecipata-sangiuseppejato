@@ -16,4 +16,4 @@ paragrafo
 
 ## images
 
-![immagine](/docs/img/logo.png)
+![immagine](/docs/images/logo.png)
