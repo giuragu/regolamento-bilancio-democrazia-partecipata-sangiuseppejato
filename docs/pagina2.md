@@ -16,5 +16,5 @@ paragrafo
 
 ## images
 
-![](/docs/images/logo.png)
+![](https://raw.githubusercontent.com/cirospat/rtd-comemipiace/master/docs/images/logo1.png)
 
