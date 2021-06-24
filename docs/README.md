@@ -62,9 +62,10 @@ Formatting can also be applied to blocks, by putting the opening and closing tag
 
 ==}
 
-- ==Tquesto è marked==
+- ==questo è marked==
 - ^^This was inserito^^
 - ~~This was cancellato~~
+- {++aggiunto++}
 
 
 ## Iframe
