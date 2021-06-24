@@ -40,7 +40,23 @@ markdown_extensions:
 - pymdownx.mark
 - pymdownx.tilde
 - pymdownx.smartsymbols
-
+- admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 ## Social Media
 extra:
