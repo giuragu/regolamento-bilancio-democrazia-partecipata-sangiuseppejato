@@ -6,9 +6,9 @@
 
 per vedere come viene>
 
-> quote "`provapagina2.md`"
+> questo per "`evidenziare`"
    ```  
-       uno
+       *uno*
        due tre 
        quattro
        cinque
