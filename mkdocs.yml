@@ -41,3 +41,15 @@ markdown_extensions:
 - pymdownx.tilde
 - pymdownx.smartsymbols
 
+
+## Social Media
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/cirospat
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/cirospat
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/cirospat/rtd-comemipiace
+    - icon: fontawesome/solid/envelope
+      link: mailto:cirospat@gmail.com
