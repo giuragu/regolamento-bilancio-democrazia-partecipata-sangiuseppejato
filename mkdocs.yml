@@ -15,14 +15,14 @@ theme:
 
 nav:
   - Home: README.md
-  - Prova pagina: provapagina.md
-  - Altra pagina: pippo.md
-  - Un altra pagina ancora: pippo2.md
-  - Più pagine ancora: pippo3.md
+  - Prova pagina 1: provapagina.md
+  - Prova pagina 2: pagina2.md
+  - Prova pagina 3: pippo2.md
+  - Prova pagina 4: pippo3.md
   - Directory:
-    - api/client.md
-    - api/client2.md
-    - api/expansions.md
+    - nomedirectory/nomefile.md
+    - nomedirectory/nomefile2.md
+    - nomedirectory/nomefile3.md
 
 plugins:
 - search
