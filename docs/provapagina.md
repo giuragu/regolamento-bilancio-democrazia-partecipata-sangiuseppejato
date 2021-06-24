@@ -6,14 +6,14 @@
 
 per vedere come viene>
 
-??? quote "`provapagina2.md`"
+> quote "`provapagina2.md`"
 
-    ``` diff 
+   ```  
        uno
        due tre 
        quattro
        cinque
-    ```
+   ```
 
 
 === "7.x"
@@ -36,7 +36,7 @@ per vedere come viene>
 
 ??? quote "`provapagina2.md`"
 
-    ``` diff
+``` diff
 @@ -61,7 +61,7 @@
             font.text | replace(' ', '+') + ':300,400,400i,700%7C' +
             font.code | replace(' ', '+')
@@ -121,4 +121,4 @@ per vedere come viene>
       {% for path in config["extra_javascript"] %}
         <script src="{{ path | url }}"></script>
       {% endfor %}
-    ```
+```
