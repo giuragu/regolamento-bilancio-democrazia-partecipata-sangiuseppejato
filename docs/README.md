@@ -2,8 +2,12 @@
 
 **Benvenuti** in questa pagina di visualizzazione di testo
 
-> black quote
-> per menzionare il commento di qualcuno
+> black quote per menzionare il commento di qualcuno
+> {==
+
+Formatting can also be applied to blocks, by putting the opening and closing tags on separate lines and adding new lines between the tags and the content.
+
+==}
 
 ## elenco puntato
 
