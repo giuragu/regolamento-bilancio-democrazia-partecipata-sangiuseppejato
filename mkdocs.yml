@@ -56,7 +56,4 @@ extra:
     - icon: fontawesome/solid/book
       link: https://readthedocs.org/projects/rtd-comemipiace/
   
-  include_newlines: |
-              Ciro Spataro
-
 ## setting dal progetto originale https://github.com/up42/up42-py/blob/master/mkdocs.yml
