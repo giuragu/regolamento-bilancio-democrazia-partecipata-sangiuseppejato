@@ -21,6 +21,7 @@ paragrafo
 
 ## CV
 metadata
+
 * Docs to Markdown version 1.0β29
 * Fri Jun 25 2021 03:11:40 GMT-0700 (PDT)
 * Source doc: cv-Ciro-Spataro
