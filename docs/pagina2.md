@@ -1,25 +1,25 @@
-# Questa è la pagina 2
+# Questa è la pagina 2 (#)
 
 Si costruisce il testo
 
-## 1 paragrafo
+## 1 paragrafo (##)
 
 paragrafo
 - uno
 - due
 
-## blackquotes
+## blackquotes (##)
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
-## images
+## image of Opendatasicilia(##)
 
 ![](https://raw.githubusercontent.com/cirospat/rtd-comemipiace/master/docs/images/logo1.png)
 
 
-## CV
+## CV (##)
 metadata
 
 * Docs to Markdown version 1.0β29
@@ -27,6 +27,7 @@ metadata
 * Source doc: cv-Ciro-Spataro
 * Tables are currently converted to HTML tables.
 
+> La tabella di sotto è editata su Github con codice HTML direttamente dalla pagina di Google doc usando un componente aggiuntivo che trasforma testo/tabelle in linguaggio Markdown
 
 <table>
   <tr>
