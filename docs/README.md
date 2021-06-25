@@ -2,6 +2,17 @@
 
 **Benvenuti** in questa pagina di visualizzazione di testo
 
+<p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Responsive</span> </p>
+
+<p><span style="background-color: #105618; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Funzioni avanzate di ricerca testo</span> </p>
+
+<p><span style="background-color: #14c9ab; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">E' figo</span> </p>
+
+<p><span style="background-color: #e86514; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Codice sorgente del testo online</span> </p>
+
+<p><span style="background-color: #c914c0; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">E’ elegante e bello da vedere</span> </p>
+
+
 > {==
 > 
 > Formatting can also be applied to blocks, by putting the opening and closing tags on separate lines and adding new lines between the tags and the content. Formatting can also be applied to blocks, by putting the opening and closing tags on separate lines and adding new lines between the tags and the content.
