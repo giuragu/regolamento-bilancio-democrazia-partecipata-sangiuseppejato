@@ -2,7 +2,11 @@
 
 **Benvenuti** in questa pagina di visualizzazione di testo
 
-> {==Formatting can also be applied to blocks, by putting the opening and closing tags on separate lines and adding new lines between the tags and the content. Formatting can also be applied to blocks, by putting the opening and closing tags on separate lines and adding new lines between the tags and the content.==}
+> {==
+> 
+> Formatting can also be applied to blocks, by putting the opening and closing tags on separate lines and adding new lines between the tags and the content. Formatting can also be applied to blocks, by putting the opening and closing tags on separate lines and adding new lines between the tags and the content.
+> 
+> ==}
 
 ## elenco puntato
 
