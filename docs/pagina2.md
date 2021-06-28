@@ -2,6 +2,13 @@
 
 Si costruisce il testo
 
+
+## admonition
+
+!!! Note
+Admonition note
+
+
 ## 1 paragrafo (##)
 
 paragrafo
