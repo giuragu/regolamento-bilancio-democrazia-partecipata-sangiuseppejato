@@ -1,6 +1,8 @@
 # Questa è la pagina 2 (#)
 
-Si costruisce il testo
+dedicata alle admnition
+
+https://squidfunk.github.io/mkdocs-material/reference/admonitions
 
 
 ## admonition `note`
