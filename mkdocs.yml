@@ -66,3 +66,6 @@ extra:
       link: https://readthedocs.org/projects/rtd-comemipiace/
   
 ## setting dal progetto originale https://github.com/up42/up42-py/blob/master/mkdocs.yml + https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
+
+## copiright
+copyright: Ciro Spataro; 2021 - licenza CC BY 4.0 int
