@@ -21,7 +21,7 @@ quote con `>`
 
 e evidenziazione con
 
-``` python
+``` markdown
 {==
 
 testo
