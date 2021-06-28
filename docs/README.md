@@ -20,13 +20,13 @@
 quote con `>`
 
 e evidenziazione con
-```
+
 {==
 
 testo
 
 ==}
-```
+
 
 risultato =
 
