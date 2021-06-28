@@ -12,6 +12,8 @@ theme:
   palette:
     scheme: preference
   language: it
+  features:
+    - navigation.top
 
 nav:
   - Home: README.md
