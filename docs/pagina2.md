@@ -1,8 +1,8 @@
 # Questa è la pagina 2 (#)
 
-dedicata alle admnition e altro
+dedicata alle **admnition** e altro
 
-https://squidfunk.github.io/mkdocs-material/reference/admonitions
+[riferimenti admonition](https://squidfunk.github.io/mkdocs-material/reference/admonitions)
 
 
 ## admonition `note`
