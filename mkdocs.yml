@@ -15,7 +15,7 @@ theme:
   features:
     - navigation.top
   icon:
-     repo: fontawesome/brands/git-alt
+     repo: fontawesome/brands/github
 
 nav:
   - Home: README.md
