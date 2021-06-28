@@ -13,19 +13,52 @@ https://squidfunk.github.io/mkdocs-material/reference/admonitions
 
 ## admonition note with title
 
-!!! Note "with title"
+!!! Note "note with title"
     **Admonition note**. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
 
-## note collapsible
+## admonition note without title
 
-???+ note
+!!! note ""
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
     
     
     
+
+## note collapsible
+
+??? vedi la nota
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+    
+    
+
+## Embedded content
+
+!!! note
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+    ``` python
+    def bubble_sort(items):
+        for i in range(len(items)):
+            for j in range(len(items) - 1 - i):
+                if items[j] > items[j + 1]:
+                    items[j], items[j + 1] = items[j + 1], items[j]
+    ```
+
+    Nunc eu odio eleifend, blandit leo a, volutpat sapien. Phasellus posuere in
+    sem ut cursus. Nullam sit amet tincidunt ipsum, sit amet elementum turpis.
+    Etiam ipsum quam, mattis in purus vitae, lacinia fermentum enim.
+
+
+
+
+
 
 ## 1 paragrafo (##)
 
