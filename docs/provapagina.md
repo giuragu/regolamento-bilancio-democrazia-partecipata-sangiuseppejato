@@ -6,9 +6,18 @@
 
 #### 4 paragrafo
 
-per vedere come <viene>
+per vedere[^1] come viene il footenotes[^2]
+
+[^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+[^2]:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
+
+
    
-   `codice`
+`codice`
 
    
 > questo per "`evidenziare`"
