@@ -79,12 +79,6 @@ per vedere come <viene>
    
 <script id="dsq-count-scr" src="//guida-readthedocs.disqus.com/count.js" async></script>
 <script>
-
-var disqus_config = function () {
-this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-
 (function() { 
 var d = document, s = d.createElement('script');
 s.src = 'https://guida-readthedocs.disqus.com/embed.js';
