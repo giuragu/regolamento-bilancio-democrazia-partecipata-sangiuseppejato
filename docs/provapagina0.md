@@ -2,6 +2,16 @@
 
 **Benvenuti** in questa pagina di visualizzazione di testo
 
+## struttura
+
+```
+.
+├─ docs/
+│  └─ index.md
+└─ mkdocs.yml
+```
+
+
 ## Testo colorato con codice `html`
 
 <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Responsive</span> </p>
