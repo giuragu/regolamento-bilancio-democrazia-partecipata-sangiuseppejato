@@ -29,7 +29,7 @@ per vedere come <viene>
     bla bla
     ```
 
-   === "B"
+=== "B"
 
     ``` B
     quattro cinque sei
