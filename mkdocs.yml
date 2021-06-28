@@ -46,6 +46,8 @@ markdown_extensions:
 - pymdownx.smartsymbols
 - admonition
 - pymdownx.details
+- pymdownx.tasklist:
+      clickable_checkbox: true
   
 
 ## Social Media
