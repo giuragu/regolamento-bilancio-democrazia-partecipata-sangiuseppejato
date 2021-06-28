@@ -5,3 +5,9 @@
 ![](https://raw.githubusercontent.com/cirospat/rtd-comemipiace/master/docs/images/cirospat.jpg)
 
 
+```
+.
+├─ docs/
+│  └─ index.md
+└─ mkdocs.yml
+```
