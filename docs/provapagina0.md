@@ -22,6 +22,33 @@ If you want to tweak some colors or change the spacing of certain elements, you 
 └─ mkdocs.yml
 ```
 
+## Additional JavaScript
+
+The same is true for additional JavaScript. If you want to integrate another
+syntax highlighter or add some custom logic to your theme, create a new
+JavaScript file in the `docs` directory:
+
+``` sh
+.
+├─ docs/
+│  └─ javascripts/
+│     └─ extra.js
+└─ mkdocs.yml
+```
+
+Then, add the following line to `mkdocs.yml`:
+
+``` yaml
+extra_javascript:
+  - javascripts/extra.js
+```
+
+[Altre info per customization](https://github.com/squidfunk/mkdocs-material/blob/master/docs/customization.md)
+
+
+---
+
+
 ## Testo colorato con codice `html`
 
 <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Responsive</span> </p>
