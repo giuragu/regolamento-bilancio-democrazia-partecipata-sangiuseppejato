@@ -19,10 +19,8 @@ theme:
 
 nav:
   - Home: README.md
-  - Prova pagina 1: provapagina.md
-  - Prova pagina 2: pagina2.md
-  - Prova pagina 3: pippo2.md
-  - Prova pagina 4: pippo3.md
+  - Prova pagina 1: provapagina1.md
+  - Prova pagina 2: provapagina2.md
   - Directory macro agomento:
     - nomedirectory/nomefile.md
     - nomedirectory/nomefile2.md
