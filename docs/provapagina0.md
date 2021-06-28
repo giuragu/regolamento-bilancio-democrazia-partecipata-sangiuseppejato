@@ -11,6 +11,15 @@
 └─ mkdocs.yml
 ```
 
+## Additional CSS
+If you want to tweak some colors or change the spacing of certain elements, you can do this in a separate stylesheet. The easiest way is by creating a new stylesheet file in the docs directory:
+
+.
+├─ docs/
+│  └─ stylesheets/
+│     └─ extra.css
+└─ mkdocs.yml
+
 
 ## Testo colorato con codice `html`
 
