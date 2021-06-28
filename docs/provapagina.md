@@ -4,16 +4,13 @@
 
 ### 3 paragrafo
 
-#### 4 paragrafo
+## Footenotes
 
 per vedere[^1] come viene il footenotes[^2]
 
 [^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-[^2]:
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+[^2]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod ulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
 
    
