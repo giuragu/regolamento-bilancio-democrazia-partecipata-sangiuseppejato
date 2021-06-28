@@ -65,8 +65,9 @@ extra:
       link: mailto:cirospat@gmail.com
     - icon: fontawesome/solid/book
       link: https://readthedocs.org/projects/rtd-comemipiace/
+    - disqus: <https-cirospat-readthedocs-io>
   
 ## setting dal progetto originale https://github.com/up42/up42-py/blob/master/mkdocs.yml + https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
 
 ## copiright
-copyright: Ciro Spataro; 2021 - licenza CC BY 4.0 int
+copyright: Ciro Spataro [2021] - Licenza Creative Commons BY 4.0 Int
