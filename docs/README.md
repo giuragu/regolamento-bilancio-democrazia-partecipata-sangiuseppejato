@@ -21,12 +21,13 @@ quote con `>`
 
 e evidenziazione con
 
+``` python
 {==
 
 testo
 
 ==}
-
+```
 
 risultato =
 
