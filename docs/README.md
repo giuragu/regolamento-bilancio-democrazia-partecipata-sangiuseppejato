@@ -21,13 +21,13 @@ quote con `>`
 
 e evidenziazione con
 
-``` markdown
+
 {==
 
 testo
 
 ==}
-```
+
 
 risultato =
 
