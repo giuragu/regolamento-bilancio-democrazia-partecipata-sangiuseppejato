@@ -18,7 +18,7 @@ theme:
      repo: fontawesome/brands/github
 
 nav:
-  - Home: README.md
+  - Home: provapagina0.md
   - Prova pagina 1: provapagina1.md
   - Prova pagina 2: provapagina2.md
   - Directory macro agomento:
