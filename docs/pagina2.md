@@ -1,6 +1,6 @@
 # Questa è la pagina 2 (#)
 
-dedicata alle admnition
+dedicata alle admnition e altro
 
 https://squidfunk.github.io/mkdocs-material/reference/admonitions
 
@@ -177,8 +177,18 @@ Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nu
     massa, nec semper lorem quam in massa
 
   
-    
-    
+---
+
+## Using tasklists
+
+- [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
+- [ ] Vestibulum convallis sit amet nisi a tincidunt
+    * [x] In hac habitasse platea dictumst
+    * [x] In scelerisque nibh non dolor mollis congue sed et metus
+    * [ ] Praesent sed risus massa
+- [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
+ 
+ 
 ---
 
 
