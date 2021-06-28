@@ -1,6 +1,6 @@
-# Questa è la pagina 2 (#)
+# prova pagina 2 
 
-dedicata alle **admnition** e altro
+dedicata alle **admnition**, alle **note**, alle **tasklists**, alle **tabelle**
 
 [riferimenti admonition](https://squidfunk.github.io/mkdocs-material/reference/admonitions)
 
