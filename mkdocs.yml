@@ -10,7 +10,7 @@ theme:
   name: "material"
   logo: images/logo3.png
   palette:
-    scheme: preference
+    scheme: default
   language: it
   features:
     - navigation.top
