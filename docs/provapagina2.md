@@ -564,3 +564,57 @@ Da aprile 2020 <a href="https://it.wikipedia.org/wiki/Responsabile_unico_del_pro
 
 
 Il CV è disponibile a questo [link](https://docs.google.com/document/d/1apRGDYexeQPDBWA-yOKEVsJOwQGYk5zUAs2-aJY50rA) per essere fruito in diversi formati aperti (``pdf``, ``odt``, ``docx``).
+
+
+---
+
+## tabella
+
+<td>**argomento**
+
+   </td>
+   <td>**anno 2020**
+
+   </td>
+   <td>**anno 2021**
+
+   </td>
+   <td>**anno 2022**
+
+   </td>
+   <td>**Modello di Interoperabilità**
+
+   </td>
+   <td>Adesione alle costituende linee guida per l’interoperabilità AGID.
+
+Migrazione dei servizi dalla porta di dominio mediante l’implementazione di nuove interfacce di accesso in modalità WS SOAP o REST (Piano di interfacciamento diretto).
+
+Completamento dei servizi di convergenza alle piattaforme nazionali abilitanti
+
+(ANPR, CIE, SIOPE+, SPID, …). 
+
+Attivazione dei servizi di autenticazione basati su CIE.
+
+Progressiva implementazione dei servizi di interoperabilità per il disaccoppiamento dei servizi middleware nell’ambito dell’ecosistema interno.
+
+Servizi di intreroperabilità del fascicolo socio assistenziale con il fascicolo sanitario di livello regionale relativo ai servizi di assistenza domiciliare integrata gestiti dalle ASP.
+
+   </td>
+   <td>Implementazione dei protocolli per la sicurezza di canale, la tracciatura e la gestione degli accessi.
+
+Estensione di servizi di SSO e federazione degli utenti all’interno dell’ecosistema applicativo della città di Palermo.
+
+Pubblicazione nel catalogo online di AGID delle interfacce di servizi progressivamente implementate.
+
+Avvio implementazione dei servizi di interoperabilità con l’ecosistema Mobilità della Città di Palermo.
+
+   </td>
+   <td>Implementazione dei protocolli per la sicurezza di canale, la tracciatura e la gestione degli accessi.
+
+Ulteriore Pubblicazioni nel catalogo online di AGID delle interfacce di servizi progressivamente implementate.** **
+
+Implementazione dei servizi di interoperabilità con l’ecosistema Mobilità della Città di Palermo.
+
+implementazione dei servizi di interoperabilità con l’ecosistema per il turismo, la cultura e il tempo libero.
+
+   </td>
