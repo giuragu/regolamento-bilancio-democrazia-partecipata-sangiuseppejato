@@ -21,6 +21,7 @@ nav:
   - Home: provapagina0.md
   - Prova pagina 1: provapagina1.md
   - Prova pagina 2: provapagina2.md
+  - Tabelle: tabella.md
   - Directory macro agomento:
     - nomedirectory/nomefile.md
     - nomedirectory/nomefile2.md
