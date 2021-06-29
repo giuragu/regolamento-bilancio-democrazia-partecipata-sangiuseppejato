@@ -69,10 +69,8 @@ dedicata alle:
 Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat inibus, justo purus uctor massa, nec emper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur  adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat     finibus, justo purus auctor massa, nec emper lorem quam in massa.
     
 !!! info inline end
-    Lorem ipsum dolor sit amet, consectetur
-    adipiscing elit. Nulla et euismod nulla.
-    Curabitur feugiat, tortor non consequat
-    finibus, justo purus auctor massa, nec
+    Lorem ipsum dolor sit amet, consectetur  adipiscing elit. Nulla et euismod nulla.
+    Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec
     semper lorem quam in massa.
     
 
