@@ -35,7 +35,8 @@ per vedere[^1] come viene il footenotes[^2]
     uno due tre
     orem ipsum dolor sit amet, consectetur adipiscing elit. 
     Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, 
-    justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet,
+    justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor (77) 
+    amet,
     bla bla
     ```
 
@@ -45,14 +46,19 @@ per vedere[^1] come viene il footenotes[^2]
     quattro cinque sei
   
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, 
-    nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. 
-    Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. 
+    Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo 
+    purus auctor massa, 
+    nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing 
+    elit. Nulla et euismod nulla. 
+    Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec 
+    semper lorem quam in massa. 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. 
     
     Curabitur feugiat, tortor non consequat finibus, 
-    justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-    Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, 
+    justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit 
+    amet, consectetur adipiscing elit. 
+    Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo 
+    purus auctor massa, 
     nec semper lorem quam in massa. 
     bla bla bla
     ```
