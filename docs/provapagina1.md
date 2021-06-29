@@ -33,7 +33,9 @@ per vedere[^1] come viene il footenotes[^2]
 
     ``` A
     uno due tre
-    orem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet,
+    orem ipsum dolor sit amet, consectetur adipiscing elit. 
+    Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, 
+    justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet,
     bla bla
     ```
 
@@ -41,14 +43,24 @@ per vedere[^1] come viene il footenotes[^2]
 
     ``` B
     quattro cinque sei
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. 
+  
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+    Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, 
+    nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. 
+    Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. 
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. 
+    
+    Curabitur feugiat, tortor non consequat finibus, 
+    justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+    Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, 
+    nec semper lorem quam in massa. 
     bla bla bla
     ```
 
    
 ## Embedded content
    
-!!! esempio
+!!! guarda le differenze
 
     === "Unordered List"
 
