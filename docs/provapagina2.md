@@ -121,11 +121,15 @@ Lorem ipsum dolor sit amet, consectetur   adipiscing elit. Nulla et euismod null
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
+
+### admonition nascosta
+
 ??? important
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
+## altre admnonition ....
 
 !!! success
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
@@ -145,19 +149,16 @@ Lorem ipsum dolor sit amet, consectetur   adipiscing elit. Nulla et euismod null
     massa, nec semper lorem quam in massa.
 
 
-
 !!! failure
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
 
-
 !!! missing
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
-
 
 
 !!! danger
@@ -170,7 +171,6 @@ Lorem ipsum dolor sit amet, consectetur   adipiscing elit. Nulla et euismod null
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
     Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, 
     justo purus auctor massa, nec semper lorem quam in massa.
-
 
 
 !!! bug
