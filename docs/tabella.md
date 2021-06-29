@@ -1,6 +1,6 @@
-# tabella
+# Esempio di Tabella
 
-`da convert function of Doc to MD pluginn of Google doc`
+`da convert function of Doc to MD plugin of Google doc`
 
 <table>
    <tr>
