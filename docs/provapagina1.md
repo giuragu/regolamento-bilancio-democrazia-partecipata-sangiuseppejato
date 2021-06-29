@@ -70,7 +70,7 @@ per vedere[^1] come viene il footenotes[^2]
 
     === "Unordered List"
 
-        Esempio 1:
+        **Esempio 1** `vedi codice` :
 
         ``` markdown
         * Sed sagittis eleifend rutrum
@@ -87,7 +87,7 @@ per vedere[^1] come viene il footenotes[^2]
 
     === "Ordered List"
 
-        Esempio 2:
+        **Esempio 2**:
 
         ``` markdown
         1. Sed sagittis eleifend rutrum. tortor non consequat finibus, justo purus auctor massa, 
