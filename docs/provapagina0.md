@@ -121,7 +121,7 @@ Write a short description of the technologies that this workshop focuses on. Inc
 
 ### Immagine
 
-![](https://raw.githubusercontent.com/cirospat/rtd-comemipiace/master/docs/images/cirospat.jpg)
+![](https://raw.githubusercontent.com/cirospat/rtd-comemipiace/master/docs/images/mkdocs.png)
 
 
 ## Video
