@@ -90,14 +90,16 @@ per vedere[^1] come viene il footenotes[^2]
         Esempio 2:
 
         ``` markdown
-        1. Sed sagittis eleifend rutrum. tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla e
+        1. Sed sagittis eleifend rutrum. tortor non consequat finibus, justo purus auctor massa, 
+        nec semper lorem quam in massa.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+        Nulla e
         2. Donec vitae suscipit est
         3. Nulla tempor lobortis orci
         ```
 
         Result:
-
-        1. Sed sagittis eleifend rutrum
+ 
+        1. Sed sagittis eleifend rutrum Sed sagittis eleifend rutrum Sed sagittis eleifend rutrum Sed sagittis eleifend rutrum Sed sagittis eleifend rutrum
         2. Donec vitae suscipit est
         3. Nulla tempor lobortis orci
 
