@@ -4,7 +4,7 @@
 
 <table>
    <tr>
-   <td><strong>argomento</strong>
+   <td><strong><code>argomento</code></strong>
 </p>
    </td>
    <td><strong>anno 2020</strong>
