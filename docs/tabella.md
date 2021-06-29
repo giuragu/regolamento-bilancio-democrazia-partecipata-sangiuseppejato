@@ -1,5 +1,3 @@
-
-
 # tabella
 
 `da convert function of Doc to MD pluginn of Google doc`
@@ -68,4 +66,4 @@ Implementazione dei servizi di interoperabilità con l’ecosistema Mobilità de
 implementazione dei servizi di interoperabilità con l’ecosistema per il turismo, la cultura e il tempo libero.
 </p>
    </td>
-  </tr>
+</tr>
