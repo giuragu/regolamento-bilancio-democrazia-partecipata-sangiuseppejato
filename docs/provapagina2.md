@@ -1,8 +1,14 @@
 # prova pagina 2 
 
-dedicata alle **admnition**, alle **note**, alle **tasklists**, alle **tabelle**
+dedicata alle:
 
-[riferimenti admonition](https://squidfunk.github.io/mkdocs-material/reference/admonitions)
+- **admnition**, 
+- **note**, 
+- **tasklists**, 
+- **tabelle**
+
+[**riferimenti admonitions**](https://squidfunk.github.io/mkdocs-material/reference/admonitions)
+
 
 
 ## admonition `note`
@@ -56,7 +62,7 @@ dedicata alle **admnition**, alle **note**, alle **tasklists**, alle **tabelle**
     Etiam ipsum quam, mattis in purus vitae, lacinia fermentum enim.
 
 
-## Inline blocks
+## Inline blocks - a destra
 
 Use inline end to align to the right (left for rtl languages).
 
@@ -69,6 +75,9 @@ Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nu
     finibus, justo purus auctor massa, nec
     semper lorem quam in massa.
     
+
+## Inline blocks - a sinistra
+
 Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec  semper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat inibus, justo purus      auctor massa, nec emper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur  adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat     finibus, justo purus auctor massa, nec emper lorem quam in massa.
 
 `Use inline to align to the left (right for rtl languages).`
@@ -85,7 +94,8 @@ Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nu
     auctor massa, nec emper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur  adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat
     finibus, justo purus auctor massa, nec emper lorem quam in massa.
     
-    
+
+## altre admonitions
 
 !!! abstract
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
