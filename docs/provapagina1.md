@@ -66,11 +66,11 @@ per vedere[^1] come viene il footenotes[^2]
    
 ## Embedded content
    
-!!! guarda le differenze
+!!! "guarda le differenze"
 
     === "Unordered List"
 
-        Esempio:
+        Esempio 1:
 
         ``` markdown
         * Sed sagittis eleifend rutrum
@@ -78,7 +78,7 @@ per vedere[^1] come viene il footenotes[^2]
         * Nulla tempor lobortis orci
         ```
 
-        _Result_:
+        Result:
 
         * Sed sagittis eleifend rutrum nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing lit. Nulla et euismod nulla. Curabitur feugiat, 
         * tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla e
@@ -87,15 +87,15 @@ per vedere[^1] come viene il footenotes[^2]
 
     === "Ordered List"
 
-        Esempio:
+        Esempio 2:
 
         ``` markdown
-        1. Sed sagittis eleifend rutrum
+        1. Sed sagittis eleifend rutrum. tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla e
         2. Donec vitae suscipit est
         3. Nulla tempor lobortis orci
         ```
 
-        _Result_:
+        Result:
 
         1. Sed sagittis eleifend rutrum
         2. Donec vitae suscipit est
