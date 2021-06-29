@@ -29,29 +29,30 @@ per vedere[^1] come viene il footenotes[^2]
    
 ## Content tabs
    
-=== "A"
+=== "lati Pro"
 
     ``` A
     uno due tre
+    orem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet,
     bla bla
     ```
 
-=== "B"
+=== "lati Contro"
 
     ``` B
     quattro cinque sei
-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. 
     bla bla bla
     ```
 
    
 ## Embedded content
    
-!!! example
+!!! esempio
 
     === "Unordered List"
 
-        _Example_:
+        Esempio:
 
         ``` markdown
         * Sed sagittis eleifend rutrum
@@ -67,7 +68,7 @@ per vedere[^1] come viene il footenotes[^2]
 
     === "Ordered List"
 
-        _Example_:
+        Esempio:
 
         ``` markdown
         1. Sed sagittis eleifend rutrum
