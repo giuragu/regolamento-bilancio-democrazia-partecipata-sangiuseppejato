@@ -1,6 +1,7 @@
 # Titolo del documento
 
 **Benvenuti** in questa pagina di visualizzazione di testo
+![](https://raw.githubusercontent.com/cirospat/rtd-comemipiace/master/docs/images/mkdocs.png)
 
 ## struttura
 
