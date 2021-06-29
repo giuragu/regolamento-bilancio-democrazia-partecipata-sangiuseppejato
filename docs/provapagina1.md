@@ -66,7 +66,7 @@ per vedere[^1] come viene il footenotes[^2]
    
 ## Embedded content
    
-!!! attention
+!!! note "fai attenzione alle differenze"
 
     === "Unordered List"
 
