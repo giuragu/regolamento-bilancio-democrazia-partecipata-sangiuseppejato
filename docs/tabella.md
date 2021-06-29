@@ -67,3 +67,4 @@ implementazione dei servizi di interoperabilità con l’ecosistema per il turis
 </p>
    </td>
 </tr>
+</table>
