@@ -81,6 +81,11 @@ Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nu
 
 `Use inline to align to the left (right for rtl languages).`
 
+Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec
+    semper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat inibus, justo purus 
+    auctor massa, nec emper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur  adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat
+    finibus, justo purus auctor massa, nec emper lorem quam in massa.
+
 !!! info inline
     Lorem ipsum dolor sit amet, consectetur
     adipiscing elit. Nulla et euismod nulla.
@@ -88,7 +93,7 @@ Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nu
     finibus, justo purus auctor massa, nec
     semper lorem quam in massa.
 
-Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec
+Lorem ipsum dolor sit amet, consectetur   adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec
     semper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat inibus, justo purus 
     auctor massa, nec emper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur  adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat
     finibus, justo purus auctor massa, nec emper lorem quam in massa.
