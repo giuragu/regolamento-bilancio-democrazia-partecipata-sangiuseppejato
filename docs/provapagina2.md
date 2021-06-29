@@ -64,7 +64,7 @@ dedicata alle:
 
 ## Inline blocks - a destra
 
-Use inline end to align to the right (left for rtl languages).
+`Use inline end to align to the right (left for rtl languages).`
 
 Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat inibus, justo purus uctor massa, nec emper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur  adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat     finibus, justo purus auctor massa, nec emper lorem quam in massa.
     
@@ -76,9 +76,10 @@ Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nu
     semper lorem quam in massa.
     
 
-## Inline blocks - a sinistra
-
 Lorem ipsum dolor sit amet, consectetur     adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec  semper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat inibus, justo purus      auctor massa, nec emper lorem quam in massa.Lorem ipsum dolor sit amet, consectetur  adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat     finibus, justo purus auctor massa, nec emper lorem quam in massa.
+
+
+## Inline blocks - a sinistra
 
 `Use inline to align to the left (right for rtl languages).`
 
