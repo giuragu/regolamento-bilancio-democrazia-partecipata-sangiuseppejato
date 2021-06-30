@@ -2,7 +2,19 @@
 
 ## `tabella in HTML`
 
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
 
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #d0e6f5;}
+</style>
 <table>
    <tr>
    <td><strong><code>argomento</code></strong>
