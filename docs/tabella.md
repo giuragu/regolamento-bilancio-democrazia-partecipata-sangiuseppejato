@@ -153,7 +153,140 @@ nro|Esempio|Descrizione|Autore
 | Registrazione Accesso al Mercato Ittico | PORTALE SERVIZI ONLINE COMUNE PALERMO | https://mercati.comune.palermo.it/ittico/event-register | mercato ittico |  | si |  | covid19 | no | non previsto |
 
 
-
-
 ---
 
+
+## tabella in html
+
+<table>
+<td><strong>argomento</strong>
+</p>
+   </td>
+   <td><strong>anno 2020</strong>
+</p>
+   </td>
+   <td><strong>anno 2021</strong>
+</p>
+   </td>
+   <td><strong>anno 2022</strong>
+</p>
+   </td>
+  <tr>
+   <td><strong>Basi di dati di interesse nazionale</strong>
+</p>
+   </td>
+   <td>Estensione dei servizi per la gestione dei documenti elettronici
+disaccoppiata mediante servizi di scrivania virtuale che implementa tutte le API
+per l’interoperabilità con il middleware e la piattaforme tecnologiche di
+servizio.
+</p>
+<p>
+Gestione integrata servizi documentali basata su:
+</p>
+<ul>
+<li>Dizionario
+<li>Interprete semantico
+<li>Catalogo dati
+<p>
+Normalizzazione estesa dei dati afferenti diversi domini applicativi per la
+convergenza e l’interoperabilità a livello dati.
+</p>
+</li>
+</ul>
+   </td>
+   <td><a
+href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/05_dati-della-pubblica-amministrazione.html#la14">Adesione
+ai tavoli di lavoro congiunto con AGID con l’obiettivo di redigere un documento
+programmatico per le linee di sviluppo per le basi dati di interesse nazionale.
+</a>
+</p>
+<p>
+Le PA centrali coinvolte e le Regioni adottano lo standard “<a
+href="https://geodati.gov.it/geoportale/documenti/12-documenti/277-linee-guida-nazionali-geodcat-ap">Geo
+DCAT-AP</a>”. <a
+href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/05_dati-della-pubblica-amministrazione.html#la15">LA15</a>
+</p>
+<p>
+<a
+href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/05_dati-della-pubblica-amministrazione.html#la15">Azioni
+nell’ambito del tavolo di lavoro costituito da AGID, in qualità di città pilota,
+per fornire dati, dataset e informazioni per le linee di sviluppo delle basi
+dati di interesse nazionale.</a>
+</p>
+   </td>
+   <td>Implementazione dei modelli e dei servizi derivanti dai lavori prodotti
+dai tavoli tecnici.
+</p>
+<p>
+Servizi per agevolare l’accesso ai dati mediante l’implementazione di API, al
+fine di sfruttare le potenzialità introdotte dall’integrazione delle singole
+basi di dati, trasformandole in  piattaforme abilitanti.
+</p>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Riutilizzo dei dati (open data)</strong>
+</p>
+   </td>
+   <td>Raccolta e organizzazione di dati e informazioni utili all’indagine sul
+grado di maturità degli open data e lo stato di attuazione della direttiva PSI
+(<a
+href="https://ec.europa.eu/digital-single-market/en/public-sector-information-psi-directive-open-data-directive">Public
+Sector Information</a>).
+</p>
+<p>
+Evoluzione dei servizi per la messa a disposizione di dati aperti relativi non
+soltanto alle piattaforme applicative relative ai diversi ecosistemi di
+riferimento (e-Government, Mobilità, Efficientamento energetico, IoT, Video
+Analisi, Big Data Analisi, …).
+</p>
+<p>
+</p>
+<p>
+Il Comune di Palermo nel 2020, come avvenuto negli anni precedenti, provvede a
+fornire informazioni e dati utili per l’indagine sul grado di maturità degli
+open data e sullo stato di attuazione della Direttiva UE sul Public Sector
+Information.
+</p>
+   </td>
+   <td>Evoluzione di servizi di accesso agli open data.
+</p>
+<p>
+Avvio dei servizi relativi alle Open API secondo la logica strutturata del
+living lab.
+</p>
+   </td>
+   <td>Implementazione servizi del Living Lab.
+</p>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>PDND</strong>
+</p>
+<p>
+<a href="https://innovazione.gov.it/it/progetti/pdnd/">Piattaforma Digitale
+Nazionale Dati</a>
+</p>
+   </td>
+   <td>Definizione delle modalità di ingestione dei dati e di utilizzo della
+PDND consone alle proprie attività.<strong> </strong>
+</p>
+<p>
+Esporre i propri dataset e relativi metadati ai sensi del profilo nazionale
+DCAT_AP_IT sulla Piattaforma Digitale Nazionale Dati (ex Data Analytic
+Framework). L’azione è stata avviata dal 2018.
+</p>
+   </td>
+   <td>Esporre i propri dataset e relativi metadati ai sensi del profilo
+nazionale <a
+href="https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/dcat-ap_it.html">DCAT_AP_IT</a>
+sulla Piattaforma Digitale Nazionale Dati. L’azione è stata avviata dal 2018.
+</p>
+   </td>
+   <td>Evoluzione dei servizi con API per esporre i propri dataset e relativi
+metadati ai sensi del profilo nazionale DCAT_AP_IT sulla Piattaforma Digitale
+Nazionale Dati.
+</p>
+   </td>
+  </tr>
+</table>
