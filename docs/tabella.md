@@ -85,6 +85,82 @@ implementazione dei servizi di interoperabilità con l’ecosistema per il turis
 
 ---
 
+## tabella in `HTML` con stile w3schools
+
+https://www.w3schools.com/css/tryit.asp?filename=trycss_table_striped
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background-color: #d0e6f5;}
+</style>
+<table>
+<td><strong>COSA </strong>
+</p>
+   </td>
+   <td><strong>LINK</strong>
+</p>
+   </td>
+   <td><strong>RUOLO</strong>
+</p>
+   </td>
+   <td><strong>Codice Amministrazione Digitale (CAD)</strong>
+</p>
+   </td>
+   <td><a href="https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs">docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs </a>
+</p>
+   </td>
+   <td><strong>Norma</strong>
+</p>
+   </td>
+   <td><strong>Ministero per l’Innovazione tecnologica e la  digitalizzazione</strong>
+</p>
+<p>
+-
+</p>
+<p>
+<strong>Agenzia per l’Italia Digitale</strong>
+</p>
+   </td>
+   <td><a href="https://innovazione.gov.it/">innovazione.gov.it</a>
+</p>
+<p>
+-
+</p>
+<p>
+<a href="http://www.agid.gov.it/">agid.gov.it</a>
+</p>
+   </td>
+   <td><strong>Regia</strong>
+</p>
+   </td>
+   <td><strong>Piano triennale per l’informatica nella Pubblica Amministrazione 2019-2021</strong>
+</p>
+   </td>
+   <td><a href="https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc">docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc </a>
+</p>
+   </td>
+   <td><strong>Strategia </strong>
+</p>
+<p>
+<strong>+</strong>
+</p>
+<p>
+<strong>Azioni</strong>
+</p>
+   </td>
+</table>
+
+----
+
 ## `Tabella in MD`
 
 Servizi comunali Palermo digitali interattivi online|piattaforma|link web|tag|app|web responsive|criticità|note|accesso con SPID/CIE|pagamento con PagoPA|
