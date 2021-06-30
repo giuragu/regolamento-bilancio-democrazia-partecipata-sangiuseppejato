@@ -1,6 +1,7 @@
-# Esempio di Tabella
+# Esempio di Tabelle
 
-`da convert function of Doc to MD plugin of Google doc`
+## `tabella in HTML`
+
 
 <table>
    <tr>
@@ -72,6 +73,8 @@ implementazione dei servizi di interoperabilità con l’ecosistema per il turis
 
 ---
 
+## `Tabella in MD`
+
 Servizi comunali Palermo digitali interattivi online|piattaforma|link web|tag|app|web responsive|criticità|note|accesso con SPID/CIE|pagamento con PagoPA|
 --:|-----|-----|-----|-----|-----|-----|-----|-----|:--------
 bla|uffffllf dd|kkkdkkd|jjjjjj|56789|67890ssss sss|78901010181818 iiis|8910111213 sss|9101112131415 ||
@@ -80,7 +83,7 @@ bla| uffffllf dd| kkkdkkd| jjjjjj| 56789| 67890ssss sss | 78901010181818 iiis| 8
 
 ---
 
-
+## `Altra tabella in MD`
 
 
 | Servizi comunali Palermo digitali interattivi online | piattaforma | link web | tag | app | web responsive | criticità | note | accesso con SPID/CIE | pagamento con PagoPA |
