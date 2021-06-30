@@ -81,6 +81,18 @@ bla|uffffllf dd|kkkdkkd|jjjjjj|56789|67890ssss sss|78901010181818 iiis|891011121
 hgssj | jdjjjdjd | hhshhss | fjfjfjs | gjsjsjjs | jjdjdjjd | jjflsòòss | 890sjjjs | 9djdjjjdjjdjd | 101111 
 bla| uffffllf dd| kkkdkkd| jjjjjj| 56789| 67890ssss sss | 78901010181818 iiis| 8910111213 sss |9101112131415 | |
 
+
+nro|Esempio|Descrizione|Autore
+---:|------:|:----------|:------:
+1|[campo area](add_col_area.md)|aggiungere colonna area per calcolo superficie|Pigreco
+2|[campi coordinate](add_coord_xy.md)|aggiungere colonne coordinate x e y|Pigreco
+3|[campo virtuale](add_campo_virtuale.md)|aggiungere campo virtuale|Pigreco
+4|[campo quota z](add_col_z.md)|aggingere colonna quota con valori z|Pigreco
+5|[etichettare](etichette.md)|etichettare usando il campo geometry|Pigreco
+6|[aggiornare geometria](agg_geom.md)|aggiornare il campo geometry|Pigreco
+7|[conversione](conversione.md)|etichettare punti da sessadecimali a sessagesimali|Pigreco
+
+
 ---
 
 ## `Altra tabella in MD`
