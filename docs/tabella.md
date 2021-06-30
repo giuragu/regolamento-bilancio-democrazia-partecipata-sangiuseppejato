@@ -72,7 +72,7 @@ implementazione dei servizi di interoperabilità con l’ecosistema per il turis
 
 ---
 
-Servizi comunali Palermo digitali interattivi online| piattaforma| link web| tag| app| web responsive| criticità| note| accesso con SPID/CIE| pagamento con PagoPA|
+Servizi comunali Palermo digitali interattivi online|piattaforma|link web|tag|app|web responsive|criticità|note|accesso con SPID/CIE|pagamento con PagoPA|
 --:|-----|-----|-----|-----|-----|-----|-----|-----|:--------
 bla|uffffllf dd|kkkdkkd|jjjjjj|56789|67890ssss sss|78901010181818 iiis|8910111213 sss|9101112131415 ||
 hgssj | jdjjjdjd | hhshhss | fjfjfjs | gjsjsjjs | jjdjdjjd | jjflsòòss | 890sjjjs | 9djdjjjdjjdjd | 101111 
