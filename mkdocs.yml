@@ -1,7 +1,10 @@
+## Project information
 site_name: Prova RTD ciro
-site_url: https://readthedocs.org/projects/rtd-comemipiace/
+site_url: https://rtd-comemipiace.readthedocs.io/it/latest/
 site_description: Un altro bel tool per scrivere documentazione in Markdown da visualizzare su RTD
+site_author: Ciro Spataro
 
+## Repository
 repo_url: https://github.com/cirospat/rtd-comemipiace
 repo_name: rtd-comemipiace
 edit_uri: edit/master/docs/
@@ -16,6 +19,9 @@ theme:
     - navigation.top
   icon:
      repo: fontawesome/brands/github
+  palette:
+    primary: dark green
+    accent: orange
 
 nav:
   - Prova pagina 0: provapagina0.md
