@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/cirospat/rtd-comemipiace/master/docs/images/mkdocs.png)
 
-## struttura
+## struttura progetto suu Github
 
 ```
 .
@@ -96,10 +96,9 @@ risultato =
 * 4
 
 
-## Sottotitolo del documento
+## sottotitolo `code`
 
 <code>technology names</code>
-un sottotitolo con ##
 
 
 ### sotto sottotitolo del documento
@@ -132,7 +131,7 @@ Write a short description of the technologies that this workshop focuses on. Inc
 Breve video introduttivo (2’10”)
 
 
-## Link
+## Link on codice html
 
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
