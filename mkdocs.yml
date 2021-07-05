@@ -19,9 +19,7 @@ theme:
     - navigation.top
   icon:
      repo: fontawesome/brands/github
-  palette:
-    primary: dark green
-    accent: orange
+  
 
 nav:
   - Prova pagina 0: provapagina0.md
