@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/cirospat/rtd-comemipiace/master/docs/images/mkdocs.png)
 
-## struttura progetto suu Github
+## struttura progetto su Github
 
 ```
 .
@@ -68,7 +68,7 @@ extra_javascript:
 
 quote con `>`
 
-e evidenziazione con
+e evidenziazione con {==    ==}
 
 
 {==
