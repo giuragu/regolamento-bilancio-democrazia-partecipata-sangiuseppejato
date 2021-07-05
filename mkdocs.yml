@@ -23,9 +23,9 @@ nav:
   - Prova pagina 2: provapagina2.md
   - Tabelle: tabella.md
   - Directory macro agomento:
-    - nomedirectory/nomefile.md
-    - nomedirectory/nomefile2.md
-    - nomedirectory/nomefile3.md
+    - micro argomento 1: nomedirectory/nomefile.md
+    - micro argomento 2: nomedirectory/nomefile2.md
+    - micro argomento 3: nomedirectory/nomefile3.md
 
 plugins:
 - search
