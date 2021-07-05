@@ -2,7 +2,8 @@
 
 ## `tabella in HTML`
 
-[https://www.w3schools.com/css/tryit.asp?filename=trycss_table_striped](stile tabella colorata)
+[**stile tabella colorata**](https://www.w3schools.com/css/tryit.asp?filename=trycss_table_striped)
+
 <style>
 table {
   border-collapse: collapse;
