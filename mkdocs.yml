@@ -45,6 +45,8 @@ nav:
 plugins:
 - search
 - mkdocstrings
+- minify:
+    minify_html: true
 
 markdown_extensions:
 - mkdocs-click
