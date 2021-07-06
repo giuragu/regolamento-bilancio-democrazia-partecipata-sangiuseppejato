@@ -171,28 +171,15 @@ esempio di iframe
 === "Material for MkDocs"
 
     ``` { .yaml .annotate }
-    name: ci # (1)
-    on:
-      push:
+    prova # (1)
+    prova 2 0 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+      
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
         branches: # (2)
-          - master
-          - main
-    jobs:
-      deploy:
-        runs-on: ubuntu-latest
-        steps:
-          - uses: actions/checkout@v2
-          - uses: actions/setup-python@v2
-            with:
-              python-version: 3.x
-          - run: pip install mkdocs-material # (3)
-          - run: mkdocs gh-deploy --force
     ```
    
-    (1). You can change the name to your liking.
+    1. You can change the name to your liking.
 
-    (2). At some point, GitHub renamed `master` to `main`. If your default branch
-         is named `master`, you can safely remove `main`, vice versa.
+    2. At some point, GitHub renamed `master` to `main`. If your default branch is named `master`, you can safely remove `main`, vice versa.
 
-    (3). This is the place to install further [MkDocs plugins][3] or Markdown
-         extensions with `pip` to be used during the build
+    
