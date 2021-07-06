@@ -33,6 +33,7 @@ theme:
   
 
 nav:
+  - Home: README.md
   - Prova pagina 0: provapagina0.md
   - Prova pagina 1: provapagina1.md
   - Prova pagina 2: provapagina2.md
@@ -41,6 +42,7 @@ nav:
     - micro argomento 1: nomedirectory/nomefile.md
     - micro argomento 2: nomedirectory/nomefile2.md
     - micro argomento 3: nomedirectory/nomefile3.md
+  - Privacy: privacy.md
 
 plugins:
 - search
