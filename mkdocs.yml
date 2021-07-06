@@ -14,7 +14,7 @@ theme:
   logo: images/logo3.png
   palette:
     - scheme: default
-      primary: gray
+      primary: BBC6C6
       accent: orange
       toggle:
         icon: material/toggle-switch-off-outline
