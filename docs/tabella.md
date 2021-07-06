@@ -4,6 +4,7 @@
 
 [**stile tabella colorata**](https://www.w3schools.com/css/tryit.asp?filename=trycss_table_striped)
 
+<!--
 <style>
 table {
   border-collapse: collapse;
@@ -14,6 +15,7 @@ th, td {
   text-align: left;
   padding: 8px;
 }
+-->
 
 tr:nth-child(even) {background-color: #d0e6f5;}
 </style>
