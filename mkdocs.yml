@@ -13,7 +13,18 @@ theme:
   name: "material"
   logo: images/logo3.png
   palette:
-    scheme: preference
+    - scheme: default
+      primary: white
+      accent: orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   language: it
   features:
     - navigation.top
