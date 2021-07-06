@@ -46,7 +46,7 @@ plugins:
 - search
 - mkdocstrings
 
-
+# Extensions
 markdown_extensions:
 - mkdocs-click
 - pymdownx.highlight
@@ -65,6 +65,8 @@ markdown_extensions:
 - pymdownx.tasklist:
       clickable_checkbox: true
 - footnotes
+- attr_list
+- def_list 
   
 
 ## Social Media
