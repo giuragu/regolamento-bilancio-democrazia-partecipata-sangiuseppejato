@@ -14,14 +14,14 @@ theme:
   logo: images/logo3.png
   palette:
     - scheme: default
-      primary: white
-      accent: orange
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: black
-      accent: orange
+      primary: red
+      accent: red
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
