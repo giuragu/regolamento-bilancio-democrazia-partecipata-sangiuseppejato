@@ -188,10 +188,11 @@ esempio di iframe
           - run: pip install mkdocs-material # (3)
           - run: mkdocs gh-deploy --force
     ```
-    1. You can change the name to your liking.
+   
+    (1). You can change the name to your liking.
 
-    2. At some point, GitHub renamed `master` to `main`. If your default branch
-       is named `master`, you can safely remove `main`, vice versa.
+    (2). At some point, GitHub renamed `master` to `main`. If your default branch
+         is named `master`, you can safely remove `main`, vice versa.
 
-    3. This is the place to install further [MkDocs plugins][3] or Markdown
-       extensions with `pip` to be used during the build
+    (3). This is the place to install further [MkDocs plugins][3] or Markdown
+         extensions with `pip` to be used during the build
