@@ -164,3 +164,40 @@ esempio di iframe
 ```
 
 <iframe width="100%" height="2500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml?gid=0&single=true"></iframe>
+
+
+## annotazioni dentro un riquadro
+
+``` { .yaml .annotate }
+name: ci # (1)
+on:
+  push:
+    branches: # (2)
+      - master
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material # (3)
+      - run: mkdocs gh-deploy --force
+```
+
+1. You can change the name to your liking.
+
+2. At some point, GitHub renamed `master` to `main`. If your default branch
+   is named `master`, you can safely remove `main`, vice versa.
+
+3. This is the place to install further [MkDocs plugins][3] or Markdown
+   extensions with `pip` to be used during the build:
+
+    ``` sh
+    pip install \
+      mkdocs-material \
+      mkdocs-awesome-pages-plugin \
+      ...
+    ```
