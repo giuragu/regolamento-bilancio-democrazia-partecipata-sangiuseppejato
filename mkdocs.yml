@@ -15,7 +15,7 @@ theme:
   palette:
     - scheme: default
       primary: indigo
-      accent: orange
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -34,15 +34,19 @@ theme:
 
 nav:
   - Home: README.md
-  - Prova pagina 0: provapagina0.md
-  - Prova pagina 1: provapagina1.md
-  - Prova pagina 2: provapagina2.md
-  - Tabelle: tabella.md
+  - Prove pagina: 
+    - Prova pagina 0: provapagina0.md
+    - Prova pagina 1: provapagina1.md
+    - Prova pagina 2: provapagina2.md
+  - Tabelle: 
+    - tabelle: tabella.md
   - Directory macro agomento:
     - micro argomento 1: nomedirectory/nomefile.md
     - micro argomento 2: nomedirectory/nomefile2.md
     - micro argomento 3: nomedirectory/nomefile3.md
-  - Privacy: privacy.md
+  - More info: 
+    - privacy: privacy.md
+    - metadati: 
 
 plugins:
 - search
