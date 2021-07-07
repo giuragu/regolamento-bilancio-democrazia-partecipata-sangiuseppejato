@@ -7,3 +7,6 @@ mkdocs-material/mkdocs.yml = https://github.com/squidfunk/mkdocs-material/blob/m
 
 https://gbvitrano.github.io/MaterialMkDocs-gb/ = https://github.com/gbvitrano/MaterialMkDocs-gb/blob/main/mkdocs.yml 
 
+## PDF generator plugin
+
+https://timvink.github.io/mkdocs-print-site-plugin/
