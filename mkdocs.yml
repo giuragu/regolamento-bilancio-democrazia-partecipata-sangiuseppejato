@@ -11,6 +11,7 @@ edit_uri: edit/master/docs/
 
 theme:
   name: "material"
+  custom_dir: docs/overrides #aggiunto
   logo: images/logo3.png
   palette:
     - scheme: default
@@ -53,7 +54,10 @@ nav:
 plugins:
 - search
 - mkdocstrings
-- print-site:
+- print-site:  #aggiunto
+    - path_to_pdf: "assets/the_name_of_your_file.pdf"
+    - add_to_navigation: false
+- print-site:  #aggiunto
     add_to_navigation: true
     print_page_title: 'Print Site'
     # Table of contents
