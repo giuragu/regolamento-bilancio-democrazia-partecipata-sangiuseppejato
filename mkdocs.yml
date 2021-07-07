@@ -47,7 +47,7 @@ nav:
     - micro argomento 3: nomedirectory/nomefile3.md
   - More info: 
     - privacy: privacy.md
-    - metadati: 
+    - metadati: metadati.md
 
 plugins:
 - search
