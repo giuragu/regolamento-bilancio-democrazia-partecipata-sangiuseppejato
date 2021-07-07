@@ -35,20 +35,20 @@ theme:
   
 nav:
   - Home: README.md
-  - Prove pagina: 
-    - Prova pagina 0: provapagina0.md
-    - Prova pagina 1: provapagina1.md
-    - Prova pagina extra: 
-      - Prova pagina 2: provapagina2.md
-  - Tabelle: 
-    - tabelle: tabella.md
-  - Directory macro agomento:
-    - micro argomento 1: nomedirectory/nomefile.md
-    - micro argomento 2: nomedirectory/nomefile2.md
-    - micro argomento 3: nomedirectory/nomefile3.md
-  - More info: 
-    - privacy: privacy.md
-    - metadati: metadati.md
+  - 1. Prove pagina: 
+    - 1.1 Prova pagina 0: provapagina0.md
+    - 1.2 Prova pagina 1: provapagina1.md
+    - 1.3 Prova pagina extra: 
+      - 1.3.1 Prova pagina 2: provapagina2.md
+  - 2. Tabelle: 
+    - 2.1 tabelle: tabella.md
+  - 3. Directory macro agomento:
+    - 3.1 micro argomento 1: nomedirectory/nomefile.md
+    - 3.2 micro argomento 2: nomedirectory/nomefile2.md
+    - 3.3 micro argomento 3: nomedirectory/nomefile3.md
+  - 4. More info: 
+    - 4.1 privacy: privacy.md
+    - 4.2 metadati: metadati.md
 
 plugins:
 - search
