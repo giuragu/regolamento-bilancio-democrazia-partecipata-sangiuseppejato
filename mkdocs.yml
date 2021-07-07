@@ -38,7 +38,8 @@ nav:
   - Prove pagina: 
     - Prova pagina 0: provapagina0.md
     - Prova pagina 1: provapagina1.md
-    - Prova pagina 2: provapagina2.md
+    - Prova pagina extra: 
+      - Prova pagina 2: provapagina2.md
   - Tabelle: 
     - tabelle: tabella.md
   - Directory macro agomento:
