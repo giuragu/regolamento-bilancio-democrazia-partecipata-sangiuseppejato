@@ -1,9 +1,8 @@
-la## Project information
-site_name: Regolamento unico controlli interni del comune di Palermo
-site_url: https://regolamento-unico-controlli-interni-palermo.readthedocs.io/it/latest/
-site_description: Regolamento unico controlli interni del comune di Palermo, delibera Consiglio Comunale n_4 del 09_02_2017
-site_author: Comune di Palermo
-
+## Project information
+site_name: RTD come mi piace
+site_url: https://rtd-comemipiace.readthedocs.io/it/latest/
+site_description: un bel modo di esporre documentazione online usando .MD
+site_author: Ciro Spataro
 ## Repository
 repo_url: https://github.com/cirospat/rtd-comemipiace
 repo_name: rtd-comemipiace
@@ -83,15 +82,15 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/ComunePalermo
+      link: https://twitter.com/cirospat
     - icon: fontawesome/brands/github-alt
       link: https://github.com/cirospat/rtd-comemipiace
     - icon: fontawesome/solid/envelope
-      link: mailto:protocollo@cert.comune.palermo.it
+      link: mailto:cirospat@gmail.com
     - icon: fontawesome/solid/book
       link: https://readthedocs.org/projects/rtd-comemipiace/
   
 ## setting dal progetto originale https://github.com/up42/up42-py/blob/master/mkdocs.yml + https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
 
 ## copiright
-copyright: <a href="https://twitter.com/ComunePalermo" title="Comune di Palermo " target="_blank">Comune di Palermo </a> | 2021 | CC BY 4.0 Int Licence
+copyright: <a href="https://twitter.com/cirospat" title="Ciro Spataro " target="_blank">Ciro Spataro </a> | 2021 | CC BY 4.0 Int Licence
