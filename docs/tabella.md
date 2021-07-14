@@ -4,6 +4,7 @@
 
 [**stile tabella colorata**](https://www.w3schools.com/css/tryit.asp?filename=trycss_table_striped)
 
+
 <!--
 <style>
 table {
