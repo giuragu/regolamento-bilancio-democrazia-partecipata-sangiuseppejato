@@ -166,7 +166,8 @@ esempio di iframe
 <iframe width="100%" height="2500px" frameBorder="0" src="https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRrShxVf6VZYXPeHR9e3NXsYZ_x8nrE1gGTuhqao4ERRm1XDYuXBO7G4vqDkk4u96BfLRAjekwZPk3K/pubhtml?gid=0&single=true"></iframe>
 
 
-## annotazioni dentro un riquadro
+## annotazioni dentro un riquadro 
+**non funzionano se non si è insiders del progetto MKDOCS**
 
 === "Material for MkDocs"
 
