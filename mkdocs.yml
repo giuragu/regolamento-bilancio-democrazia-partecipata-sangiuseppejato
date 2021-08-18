@@ -80,7 +80,6 @@ markdown_extensions:
 
 ## Social Media
 extra:
-  disqus: https-cirospat-github-io-mkdocs-style
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/cirospat
