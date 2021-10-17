@@ -6,6 +6,6 @@
 riferimento documento su Google drive
 https://docs.google.com/document/d/17_P9nT6bsKL_WnrXfBcP4jHbBSTM1q-D3F5Ex4266fE/edit `da deletare quando il progetto sarà esposto su read the docs`
 
-
+Regolamento apprvato con Delibera di Consiglio Comunale n. ... del .....
 
 
