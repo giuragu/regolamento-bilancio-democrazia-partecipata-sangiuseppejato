@@ -34,6 +34,8 @@ theme:
   
 nav:
   - Home: README.md
+  - Struttura del Regolamento: struttura-regolamento.md
+  - Riferimenti normativi: riferimenti-normativi.md
   - Articolo 1 - Principi e finalità: articolo-1.md
   - Articolo 2 - Aventi diritto al voto: articolo-2.md
   - Articolo 3 - Fasi del Bilancio Partecipativo: articolo-3.md
