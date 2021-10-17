@@ -10,7 +10,7 @@ edit_uri: edit/master/docs/
 
 theme:
   name: "material"
-  logo: images/logo3.png
+  logo: images/San_Giuseppe_Jato.png
   palette:
     - scheme: default
       primary: indigo
