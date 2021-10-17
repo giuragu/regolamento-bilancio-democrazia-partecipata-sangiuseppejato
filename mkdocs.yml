@@ -3,6 +3,7 @@ site_name: Regolamento del Bilancio in Democrazia Partecipata del Comune di San 
 site_url: https://regolamento-bilancio-democrazia-partecipata-sangiuseppejato.readthedocs.io/it/latest/
 site_description: Regolamento del Bilancio in Democrazia Partecipata del Comune di San Giuseppe Jato
 site_author: Giuesppe Ragusa
+
 ## Repository
 repo_url: https://github.com/giuragu/regolamento-bilancio-democrazia-partecipata-sangiuseppejato
 repo_name: regolamento-bilancio-democrazia-partecipata-sangiuseppejato
@@ -36,19 +37,19 @@ nav:
   - Home: README.md
   - Struttura del Regolamento: struttura-regolamento.md
   - Riferimenti normativi: riferimenti-normativi.md
-  - Articolo 1 - Principi e finalità: articolo-1.md
-  - Articolo 2 - Aventi diritto al voto: articolo-2.md
-  - Articolo 3 - Fasi del Bilancio Partecipativo: articolo-3.md
-  - Articolo 4 - Definizione del budget: articolo-4.md
-  - Articolo 5 - Informazione: articolo-5.md
-  - Articolo 6 - Modalità di espressioni della preferenza: articolo-6.md
-  - Articolo 7 - Criteri di valutazione delle attività: articolo-7.md
-  - Articolo 8 - Verbale di partecipazione: articolo-8.md
-  - Articolo 9 - Aree tematiche: articolo-9.md
-  - Articolo 10 - Entrata in vigore: articolo-10.md
-  - Articolo 11 - Informativa sul trattamento dei dati personali: articolo-11.md
-  - Articolo 12 - Pubblicità del Regolamento: articolo-12.md
-  - Articolo 13 - Revisione del Regolamento: articolo-13.md
+  - Articolo 1 - Principi e finalità: articolo-1-principi-e-finalita.md
+  - Articolo 2 - Aventi diritto al voto: articolo-2-aventi-diritto-al-voto.md
+  - Articolo 3 - Fasi del Bilancio Partecipativo: articolo-3-fasi-del-bilancio-partecipativo.md
+  - Articolo 4 - Definizione del budget: articolo-4-definizione-del-budget.md
+  - Articolo 5 - Informazione: articolo-5-informazione.md
+  - Articolo 6 - Modalità di espressioni della preferenza: articolo-6-modalita-di-espressioni-della-preferenza.md
+  - Articolo 7 - Criteri di valutazione delle attività: articolo-7-criteri-di-valutazione-delle-attivita.md
+  - Articolo 8 - Verbale di partecipazione: articolo-8-verbale-di-partecipazione.md
+  - Articolo 9 - Aree tematiche: articolo-9-aree-tematiche.md
+  - Articolo 10 - Entrata in vigore: articolo-10-entrata-in-vigore.md
+  - Articolo 11 - Informativa sul trattamento dei dati personali: articolo-11-informativa-sul-trattamento-dei-dati-personali.md
+  - Articolo 12 - Pubblicità del Regolamento: articolo-12-pubblicita-del-regolamento.md
+  - Articolo 13 - Revisione del Regolamento: articolo-13-revisione-del-regolamento.md
 
  
 
@@ -85,12 +86,10 @@ markdown_extensions:
 ## Social Media
 extra:
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/cirospat
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/cirospat/rtd-comemipiace
+      link: https://github.com/giuragu/rtd-comemipiace
     - icon: fontawesome/solid/envelope
-      link: mailto:cirospat@gmail.com
+      link: mailto:comunesangiuseppejato@pec.it
     - icon: fontawesome/solid/book
       link: https://readthedocs.org/projects/rtd-comemipiace/
   
