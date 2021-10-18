@@ -4,6 +4,4 @@
 ## Regolamento del Bilancio in Democrazia Partecipata del Comune di San Giuseppe Jato
 
 
-Regolamento apprvato con Delibera di Consiglio Comunale n. ... del .....
-
-
+[Regolamento](https://www.comune.sangiuseppejato.pa.it/amministrazione_trasparente/disposizioni_generali/Atti_generali/atti-amministrativi-generali/Regolamento%20democrazia%20partecipata.pdf) approvato con Delibera di Consiglio Comunale n. 41 del 30/07/2018
