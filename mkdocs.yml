@@ -102,7 +102,7 @@ extra_javascript:
 
 ## Social Media
 extra:
-  disqus: <reg-dem-part-sgj>
+  disqus: reg-dem-part-sgj
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/giuragu/regolamento-bilancio-democrazia-partecipata-sangiuseppejato
