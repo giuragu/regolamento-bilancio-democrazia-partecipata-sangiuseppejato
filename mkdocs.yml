@@ -9,8 +9,10 @@ repo_url: https://github.com/giuragu/regolamento-bilancio-democrazia-partecipata
 repo_name: regolamento-bilancio-democrazia-partecipata-sangiuseppejato
 edit_uri: edit/master/docs/
 
+## Configuration
 theme:
   name: "material"
+  custom_dir: docs/overrides/
   logo: images/San_Giuseppe_Jato.png
   palette:
     - scheme: default
@@ -82,6 +84,11 @@ markdown_extensions:
 - def_list 
 - pymdownx.inlinehilite
   
+  
+## extra CSS
+extra_css:
+   - stylesheets/extra.css
+
 
 ## Social Media
 extra:
