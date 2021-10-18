@@ -59,11 +59,9 @@ plugins:
 - search
 - mkdocstrings
 
-#Metadata
 markdown_extensions:
   - meta
 
-# Disqus
 extra:
   disqus: <reg-dem-part-sgj>
 
