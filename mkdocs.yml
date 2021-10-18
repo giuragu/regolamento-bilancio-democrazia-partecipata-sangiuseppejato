@@ -87,13 +87,13 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/giuragu/rtd-comemipiace
+      link: https://github.com/giuragu/regolamento-bilancio-democrazia-partecipata-sangiuseppejato
     - icon: fontawesome/solid/envelope
       link: mailto:comunesangiuseppejato@pec.it
     - icon: fontawesome/solid/book
-      link: https://readthedocs.org/projects/rtd-comemipiace/
+      link: https://readthedocs.org/projects/regolamento-bilancio-democrazia-partecipata-sangiuseppejato
   
 ## setting dal progetto originale https://github.com/up42/up42-py/blob/master/mkdocs.yml + https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
 
 ## copiright
-copyright: <a href="https://twitter.com/cirospat" title="Ciro Spataro " target="_blank">Ciro Spataro </a> | 2021 | CC BY 4.0 Int Licence
+copyright: <a href="https://www.comune.sangiuseppejato.pa.it/" title="Comune di San Giuseppe Jato " target="_blank">Comune di San Giuseppe Jato </a> | CC BY 4.0 Int Licence
