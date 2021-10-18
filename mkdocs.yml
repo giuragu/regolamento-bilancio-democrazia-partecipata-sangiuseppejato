@@ -5,9 +5,9 @@ site_description: Regolamento del Bilancio in Democrazia Partecipata del Comune 
 site_author: Giuseppe Ragusa
 
 ## Repository
-repo_url: https://github.com/giuragu/regolamento-bilancio-democrazia-partecipata-sangiuseppejato
-repo_name: regolamento-bilancio-democrazia-partecipata-sangiuseppejato
-edit_uri: edit/master/docs/
+# repo_url: https://github.com/giuragu/regolamento-bilancio-democrazia-partecipata-sangiuseppejato
+# repo_name: regolamento-bilancio-democrazia-partecipata-sangiuseppejato
+# edit_uri: edit/master/docs/
 
 ## Configuration
 theme:
