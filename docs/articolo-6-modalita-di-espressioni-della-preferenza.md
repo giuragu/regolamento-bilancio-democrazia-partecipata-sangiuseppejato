@@ -5,3 +5,7 @@ Il cittadino potrà esprimere la preferenza sulle aree tematiche indicate nell�
 Il risultato della consultazione stabilirà l’ordine della priorità delle aree tematiche proposte. 
 
 Tale priorità stabilisce l’ordine degli interventi della Amministrazione Comunale.
+
+---
+disqus: <reg-dem-part-sgj>
+---
