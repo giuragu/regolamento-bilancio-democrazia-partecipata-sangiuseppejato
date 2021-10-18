@@ -3,7 +3,7 @@
 
 
 /* cambia colore al footer e page next/pre */
-.md-footer { background-color:#f5f5f5; color:#474141;}
+.md-footer { background-color:var(--md-default-bg-color); color: var(--md-default-fg-color);}
 .md-footer-meta {    background-color:#3b3b3b;}
 
 
