@@ -1,5 +1,5 @@
 ---
-disqus: <reg-dem-part-sgj>
+disqus: reg-dem-part-sgj
 ---
 
   
