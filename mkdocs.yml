@@ -30,8 +30,6 @@ theme:
   language: it
   features:
     - navigation.top
-    - navigation.tabs
-    - navigation.tabs
     - search.suggest
     - search.highlight
     - search.share
