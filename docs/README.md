@@ -1,4 +1,4 @@
-## COMUNE DI SAN GIUSEPPE JATO (CITTA’ METROPOLITANA DI PALERMO)
+## Comune di San Giuseppe Jato (Città Metropolitana di Palermo)
 ![](https://raw.githubusercontent.com/giuragu/regolamento-bilancio-democrazia-partecipata-sangiuseppejato/master/docs/images/San_Giuseppe_Jato.png)
 
 ### Regolamento del Bilancio in Democrazia Partecipata del [Comune di San Giuseppe Jato](https://www.comune.sangiuseppejato.pa.it/)
