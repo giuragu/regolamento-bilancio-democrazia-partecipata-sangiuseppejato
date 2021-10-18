@@ -86,6 +86,8 @@ markdown_extensions:
 - attr_list
 - def_list 
 - pymdownx.inlinehilite
+- meta
+- md_in_html
   
   
 ## extra CSS
