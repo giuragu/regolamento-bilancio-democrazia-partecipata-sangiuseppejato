@@ -1,3 +1,8 @@
+---
+title: Regolamenti comunali 
+---
+
+
 ## Comune di San Giuseppe Jato (Città Metropolitana di Palermo)
 ![](https://raw.githubusercontent.com/giuragu/regolamento-bilancio-democrazia-partecipata-sangiuseppejato/master/docs/images/San_Giuseppe_Jato.png)
 
