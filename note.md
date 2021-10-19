@@ -5,7 +5,7 @@ mkdocs-material/mkdocs.yml = https://github.com/squidfunk/mkdocs-material/blob/m
 
 ## progetto GBVITRANO
 
-https://gbvitrano.github.io/MaterialMkDocs-gb/ = https://github.com/gbvitrano/MaterialMkDocs-gb/blob/main/mkdocs.yml 
+https://opendatasicilia.github.io/ods-mkdocs-material = https://github.com/opendatasicilia/ods-mkdocs-material/blob/main/mkdocs.yml 
 
 ## PDF generator plugin
 
