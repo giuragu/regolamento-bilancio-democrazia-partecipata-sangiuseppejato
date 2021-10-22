@@ -36,6 +36,7 @@ theme:
     - search.share
   icon:
      repo: fontawesome/brands/github
+  favicon: images/favicon.ico
   
   
   
