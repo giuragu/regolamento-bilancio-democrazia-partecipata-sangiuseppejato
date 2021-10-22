@@ -101,7 +101,7 @@ extra_css:
 extra_javascript:
    - stylesheets/extra.js
 
- disqus: ods-mkdocs-material
+disqus: ods-mkdocs-material
 ##  ods-mkdocs-material è lo <shortname> legato a Disqus
 
 ## Social Media
