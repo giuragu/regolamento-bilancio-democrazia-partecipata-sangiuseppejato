@@ -34,6 +34,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - navigation.tab
   icon:
      repo: fontawesome/brands/github
   favicon: images/favicon.ico
